@@ -2,7 +2,7 @@
 ---
 ## Problem Statement 
 
-Performance and saclling issue analysis via full text search approch
+Performance and scaling issue analysis via full text search approch
 
 ## Overview
 
